@@ -37,8 +37,8 @@ A valid Telex API key (Get it here)
 
 1. Clone this repository by running:
    ```bash
-   git clone https://github.com/samuelIkoli/Telex-Go-integration
-   cd Telex-Go-integration
+   git clone github.com/telexintegrations/Forex-Symbols-Notifier
+   cd Forex-Symbols-Notifier
    ```
 2. Install the dependencies:
    ```bash
